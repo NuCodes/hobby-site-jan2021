@@ -6,92 +6,54 @@
     background-color: black;
 }
 
-#b1{
-    background-color: fuchsia;
-    height: 15vh;
-}
-
-#b2{
-    background-color: green;
-    height: 15vh;
-}
-
-#b3{
-    background-color: purple;
-    height:15vh;
-}
-
-#b4{
-    background-color:blue;
-    height: 10vh;
-}
-#b5{
+#main-body {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 45%;
 }
 
-
-#b6{
-    background-color: yellow;
-    height: 15vh;
-    margin: 1%;
-}
-
-#b7{
-    background-color: yellow;
-    height: 15vh;
-    margin: 1%;
-}
-
-#b8{
-    background-color: yellow;
-    height: 15vh;
-    margin: 1%;
-}
-
-#b9{
+#footer {
     background-color: black;
     height: 8vh;
 }
 
-#c1{
+#preview-1 {
     background-color: yellow;
     height: 32.5vh;
     margin: 0%;
 }
 
-#c2{
+#preview-2 {
     background-color: yellow;
     height: 32.5vh;
     margin: 1%;
 }
 
-#c3{
+#preview-3 {
     background-color: yellow;
     height: 32.5vh;
     margin: 1%;
 }
 
-#c4{
+#preview-4 {
     background-color: yellow;
     height: 32.5vh;
     margin: 1%;
 }
 
-#c5{
+#preview-5 {
     background-color: yellow;
     height: 32.5vh;
     margin: 1%;
 }
 
-#c6{
+#preview-6 {
     background-color: yellow;
     height: 32.5vh;
     margin: 1%;
 }
-.imgc{
+.carousel {
     width: 80%;
     height: 65vh;
 }
